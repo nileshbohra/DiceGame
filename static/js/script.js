@@ -1,9 +1,9 @@
-let img1 = "./images/dice1.png";
-let img2 = "./images/dice2.png";
-let img3 = "./images/dice3.png";
-let img4 = "./images/dice4.png";
-let img5 = "./images/dice5.png";
-let img6 = "./images/dice6.png";
+let img1 = "../static/images/dice1.png";
+let img2 = "../static/images/dice2.png";
+let img3 = "../static/images/dice3.png";
+let img4 = "../static/images/dice4.png";
+let img5 = "../static/images/dice5.png";
+let img6 = "../static/images/dice6.png";
 
 let arImg = [img1, img2, img3, img4, img5, img6];
 // console.log(arImg);
